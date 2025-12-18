@@ -2,7 +2,7 @@
   "name": "MCP_Client_Demo",
   "projectId": "582ebfb2-06fc-4d7e-b436-71be760c9cc2",
   "description": "To demonstrate RPA workflow running as MCP client triggering MCP server tools either directly or via MCP gateway",
-  "main": "Main.xaml",
+  "main": "GetTools.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.24.4]",
     "UiPath.Mail.Activities": "[1.24.16]",
@@ -52,6 +52,12 @@
     {
       "filePath": "Main.xaml",
       "uniqueId": "fb3bea86-f74d-449b-925c-c580a1f01ca6",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "GetTools.xaml",
+      "uniqueId": "13d02b7c-b70a-4dbe-813a-dcca09f00738",
       "input": [],
       "output": []
     }
